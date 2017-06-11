@@ -1,0 +1,13 @@
+Master Password£ºpassword: 12345678
+
+
+¡¾VPN¡¿
+address: v2.of-crm.com
+account: of1422
+password: Wy_123456
+
+¡¾GIT¡¿
+address: http://git.dev.qianmi.com/dingzhi/weizhi
+branch: weizhi_2017_06_02
+account: weizhi_dev1
+password: 12345678
